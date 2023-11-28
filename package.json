@@ -1,14 +1,14 @@
 {
-  "name": "belajar-nodejs",
-  "version": "1.0.0",
-  "description": "Belajar NodeJS",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Raditya Lungguk Satya Putra",
-  "license": "ISC",
-  "dependencies": {
-    "lodash": "^4.17.21"
-  }
+	"name": "belajar-nodejs",
+	"version": "1.0.0",
+	"description": "Belajar NodeJS",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Raditya Lungguk Satya Putra",
+	"license": "ISC",
+	"dependencies": {
+		"lodash": "^4.17.21"
+	}
 }
